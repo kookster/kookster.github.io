@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: poetry
+author: Andrew Kuklewicz
+author_login: admin
+author_email: andrew@beginsinwonder.com
+author_url: http://
+wordpress_id: 17
+wordpress_url: http://beginsinwonder.com/2005/12/29/poetry/
+date: '2005-12-29 21:28:00 -0500'
+date_gmt: '2005-12-29 15:28:00 -0500'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>If for some reason you are still reading poetry even though you are no longer in school, nor work at a university humanities department, then this site is for you. Get your daily dose, for bitter or verse.<!--eb9aa8530cb6c0e33f9ad4be8fde019d--></p>

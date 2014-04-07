@@ -1,0 +1,21 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: Andrew Kuklewicz
+author_login: admin
+author_email: andrew@beginsinwonder.com
+author_url: http://
+wordpress_id: 2
+date: '2005-11-23 20:39:25 -0500'
+date_gmt: '2005-11-23 14:39:25 -0500'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><b>who?</b></p>
+<p>Blog for Andrew Kuklewicz, email me at: andrew AT beginsinwonder DOT com</p>
+<p><b>begins in wonder?</b></p>
+<p>There are various translations of quotes/writings attributed to Socrates and Plato that go "Philosophy begins in wonder" or "Wisdom begins in wonder".  Translations aside, I like both ideas, and they stuck with me enough to make me pick this domain name. And yes, I am a big philosophy geek.<!--3751a3ae6712747ccda8e3c6f0008bb4--></p>
