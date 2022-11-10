@@ -4,7 +4,11 @@ pygments: true
 github: www.github.com/kookster
 about: code, poetry, philosophy, folly (Andrew Kuklewicz)
 urls:
-    - text: github
-      url: https://github.com/kookster
     - text: email
       url: mailto:andrew@beginsinwonder.com
+    - text: github
+      url: https://github.com/kookster
+    - text: mastodon
+      url: https://mastodon.social/@kookster
+    - text: twitter
+      url: https://twitter.com/kookster
